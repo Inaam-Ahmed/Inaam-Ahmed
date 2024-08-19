@@ -17,7 +17,7 @@ I started programming at the age of sixteen and has been interested in software 
 [![My Skills](https://skillicons.dev/icons?i=django,aws,azure,react,js,html,css,git,kubernetes,docker,c,scala,anaconda,bash,cpp,cassandra,cloudflare,express,fastapi,firebase,flask,git,gradle,java,kafka)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=django,aws,azure,react,js,html,css,git,kubernetes,docker,c,scala,anaconda,bash,cpp,cassandra,cloudflare,express,fastapi,firebase,flask,git,gradle,java,kafka, kubernates,mongodb,mysql,nodejs,nextjs,openshift,postgres,rabbitmq,react,terraform)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,aws,azure,react,js,html,css,git,kubernetes,docker,c,scala,anaconda,bash,cpp,cassandra,cloudflare,express,fastapi,firebase,flask,git,gradle,java,kafka, mongodb,mysql,nodejs,nextjs,openshift,postgres,rabbitmq,react,terraform)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
