@@ -16,7 +16,7 @@ I started programming at the age of sixteen and has been interested in software 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,scala,cpp,java,py)](https://skillicons.dev)
 
 ## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,react,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,flask,nextjs,nodejs,bun,npm,bootstrap)](https://skillicons.dev)
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,openshift,cassandra,postgres,dynamodb)](https://skillicons.dev)
