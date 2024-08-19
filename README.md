@@ -16,6 +16,28 @@ I started programming at the age of sixteen and has been interested in software 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=django,aws,azure,react,js,html,css,git,kubernetes,docker,c,scala,anaconda,bash,cpp,cassandra,cloudflare,express,fastapi,firebase,flask,git,gradle,java,kafka,mongodb,mysql,nodejs,nextjs,openshift,postgres,rabbitmq,react,terraform)](https://skillicons.dev)
 
+### Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,scala,cpp,java)](https://skillicons.dev)
+
+## Frameworks
+[![My Skills](https://skillicons.dev/icons?i=django,react,flask)](https://skillicons.dev)
+
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,openshift,cassandra,postgres,dynamodb)](https://skillicons.dev)
+
+## API Design
+[![My Skills](https://skillicons.dev/icons?i=express,fastapi)](https://skillicons.dev)
+
+
+## Cloud Proficiency
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cloudflare,terraform)](https://skillicons.dev)
+
+
+## DevOps
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,bash,git,gradle,kafka,rabbitmq,terraform)](https://skillicons.dev)
+
+
+
 ## 🌱 Currently Exploring
 
 - Cloud Security: Diving deep into the latest cloud security practices to enhance the robustness and reliability of cloud-based applications.
