@@ -19,7 +19,6 @@ I started programming at the age of sixteen and has been interested in software 
 
 ## 🌱 Currently Exploring
 
-- 🚀 Learning Full Stack Web Development
 - Cloud Security: Diving deep into the latest cloud security practices to enhance the robustness and reliability of cloud-based applications.
 - Machine Learning: Experimenting with advanced machine learning algorithms and frameworks like PyTorch and TensorFlow to push the boundaries of AI-driven solutions.
 - Big Data Technologies: Exploring tools like Apache Spark and Hadoop for handling and processing large datasets efficiently.
@@ -29,5 +28,3 @@ I started programming at the age of sixteen and has been interested in software 
 ## 📬 Get in Touch
 
 - Connect with me on [Linkedin](https://www.linkedin.com/in/inaam-ahmed/)
-
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
