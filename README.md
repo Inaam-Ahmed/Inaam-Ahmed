@@ -14,7 +14,7 @@ I started programming at the age of sixteen and has been interested in software 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,react,js,html,css,git,kubernetes,docker,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django, aws,azure,react,js,html,css,git,kubernetes,docker,c,scala, anaconda, bash, cpp,cassandra,cloudflare,express,fastapi,firebase,flask, git, gradle,java,kafka, kubernates, mongodb,mysql,nodejs, nextjs,openshift, redis, postgres, rabbitmq, react, terraform)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -26,4 +26,4 @@ I started programming at the age of sixteen and has been interested in software 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Linkedin](https://www.linkedin.com/in/inaam-ahmed/)
+- Connect with me on [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/inaam-ahmed/)
