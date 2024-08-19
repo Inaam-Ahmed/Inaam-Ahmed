@@ -2,7 +2,7 @@
 
 I started programming at the age of sixteen and has been interested in software architecture and compiler construction. I am co-creator of HARPO Compiler. HARPO programming language intended to target multiple variety of reconfigurable architectures.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=Inaam-Ahmed&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
