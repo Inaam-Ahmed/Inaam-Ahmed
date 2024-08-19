@@ -1,4 +1,3 @@
-
 # Hi, I'm Inaam! 👋
 
 I started programming at the age of sixteen and has been interested in software architecture and compiler construction. I am co-creator of HARPO Compiler. HARPO programming language intended to target multiple variety of reconfigurable architectures.
