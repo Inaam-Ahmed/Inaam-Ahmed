@@ -13,7 +13,7 @@ I started programming at the age of sixteen and has been interested in software 
 - 📚 I am continuously expanding my knowledge, holding certifications like AWS Developer Associate, AWS Solutions Architect Associate, and CISCO Certified Network Associate (CCNA).
 
 ### Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,scala,cpp,java)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,scala,cpp,java,py)](https://skillicons.dev)
 
 ## Frameworks
 [![My Skills](https://skillicons.dev/icons?i=django,react,flask)](https://skillicons.dev)
