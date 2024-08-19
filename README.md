@@ -12,10 +12,6 @@ I started programming at the age of sixteen and has been interested in software 
 - 📝 I am passionate about teaching and mentoring; I work as workshop coordinator at Canada Learning Code, helping aspiring developers prepare for technical roles.
 - 📚 I am continuously expanding my knowledge, holding certifications like AWS Developer Associate, AWS Solutions Architect Associate, and CISCO Certified Network Associate (CCNA).
 
-
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=django,aws,azure,react,js,html,css,git,kubernetes,docker,c,scala,anaconda,bash,cpp,cassandra,cloudflare,express,fastapi,firebase,flask,git,gradle,java,kafka,mongodb,mysql,nodejs,nextjs,openshift,postgres,rabbitmq,react,terraform)](https://skillicons.dev)
-
 ### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,c,scala,cpp,java)](https://skillicons.dev)
 
@@ -35,7 +31,6 @@ I started programming at the age of sixteen and has been interested in software 
 
 ## DevOps
 [![My Skills](https://skillicons.dev/icons?i=kubernetes,docker,bash,git,gradle,kafka,rabbitmq,terraform)](https://skillicons.dev)
-
 
 
 ## 🌱 Currently Exploring
