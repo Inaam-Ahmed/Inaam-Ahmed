@@ -39,4 +39,4 @@ I started programming at the age of sixteen and has been interested in software 
 - Functional Programming: Delving into functional programming paradigms with Scala and Haskell to refine my approach to software development.
 
 ## 📬 Get in Touch
-- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/inaam-ahmed/)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/inaam-ahmed/)
